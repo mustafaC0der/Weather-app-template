@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Karachi",
+      "country": "PK",
+      "temperature": 30,
+      "conditions": "Clear sky",
+      "icon": "01d"
+    },
+    {
+      "name": "Lahore",
+      "country": "PK",
+      "temperature": 28,
+      "conditions": "Haze",
+      "icon": "50d"
+    },
+    {
+      "name": "Islamabad",
+      "country": "PK",
+      "temperature": 26,
+      "conditions": "Partly cloudy",
+      "icon": "02d"
+    },
+    {
+      "name": "Peshawar",
+      "country": "PK",
+      "temperature": 25,
+      "conditions": "Rain",
+      "icon": "09d"
+    },
+    {
+      "name": "Quetta",
+      "country": "PK",
+      "temperature": 20,
+      "conditions": "Sunny",
+      "icon": "01d"
+    }
+  ]
+  
