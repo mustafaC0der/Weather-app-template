@@ -8,9 +8,6 @@ Good day and welcome to the **Weather App**! This super easy and intuitive app w
 - **Weather Details**: Get the current temperature, weather conditions, and even an icon representing the weather.
 - **Responsive and Clean Design**: No matter if you are accessing the app from a phone, tablet, or desktop, it always provides a smooth and responsive user experience.
 
-## Screenshots
-*(Feel free to add screenshots or GIFs here to show off the app in action!)*
-
 ## How to Run the App
 
 Running the Weather App locally is quite easy! Just follow these steps:
